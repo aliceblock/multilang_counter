@@ -1,0 +1,14 @@
+{
+    "app": {
+        "title": "Multi locale clicker",
+        "changeLang": "Change language",
+        "description": "คลิกสิคลิกหลายๆที",
+        "increment": "เพิ่ม",
+        "counter": {
+            "zero": "{} ครั้ง",
+            "one": "{} ครั้ง",
+            "two": "{} ครั้ง",
+            "other": "{} ครั้ง"
+        }
+    }
+}

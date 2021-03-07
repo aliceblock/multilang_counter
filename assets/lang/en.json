@@ -1,0 +1,14 @@
+{
+    "app": {
+        "title": "Multi locale clicker",
+        "changeLang": "เปลี่ยนภาษา",
+        "description": "You have pushed the button this many times",
+        "increment": "Increment",
+        "counter": {
+            "zero": "{} times",
+            "one": "{} time",
+            "two": "{} times",
+            "other": "{} times"
+        }
+    }
+}
